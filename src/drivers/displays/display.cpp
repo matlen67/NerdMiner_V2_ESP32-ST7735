@@ -52,6 +52,10 @@ DisplayDriver *currentDisplayDriver = &m5stickCDriver;
 DisplayDriver *currentDisplayDriver = &t_hmiDisplayDriver;
 #endif
 
+#ifdef ESP32_ST7735
+DisplayDriver *currentDisplayDriver = &esp32_st7735_driver;
+#endif
+
 
 // Initialize the display
 void initDisplay()

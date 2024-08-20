@@ -43,6 +43,8 @@
 #include "waveshareS3Geek.h"
 #elif defined(NERDMINER_T_HMI)
 #include "lilygoT_HMI.h"
+#elif defined(ESP32_ST7735)
+#include "esp32_st7735.h"
 
 
 #else
