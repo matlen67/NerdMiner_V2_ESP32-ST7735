@@ -1,6 +1,6 @@
 # NerdSoloMiner
 
-![image](images/pictures_01.jpg)
+![image](images/picture_01.jpg)
 
 
 **The NerdSoloMiner v2**
