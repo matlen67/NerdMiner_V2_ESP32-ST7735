@@ -1,5 +1,8 @@
 # NerdSoloMiner
 
+![image](images/pictures_01.jpg)
+
+
 **The NerdSoloMiner v2**
 
 This is a **free and open source project** that let you try to reach a bitcoin block with a small piece of hardware.
